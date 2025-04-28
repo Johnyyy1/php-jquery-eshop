@@ -12,6 +12,8 @@ TailwindCSS – pro rychlou a responzivní úpravu vzhledu.
 
 JavaScript (jQuery) – pro interaktivní funkce (např. přidání do košíku, validace formulářů a asynchronní načítání dat z databáze pomocí AJAX).
 
+Three.js - Velmi jednoduchá animace.
+
 # Funkce
 Zobrazení seznamu produktů s možností filtrování podle kategorií.
 
